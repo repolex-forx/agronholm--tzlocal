@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/tzlocal/commit/5c5e35ec8c2b7fdd38702f9815368bb22b943a85",
       "git:hexsha": "5c5e35ec8c2b7fdd38702f9815368bb22b943a85",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/tzlocal/commit/b3b0a8e7ae4e931634336d2ddcb39f35f0bb5695",

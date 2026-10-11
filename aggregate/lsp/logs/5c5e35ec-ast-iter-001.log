@@ -1,0 +1,7 @@
+[2026-10-11T20:57:19Z] === AST ITERATION 1 START | repo=agronholm/tzlocal sha=5c5e35ec ===
+[2026-10-11T20:57:19Z] [iter=1] PHASE START: ast repo=agronholm/tzlocal sha=5c5e35ec
+[2026-10-11T20:57:19Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T20:57:27Z] [iter=1] AST chunks built count=1 triples=79415
+[2026-10-11T20:57:27Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/5c5e35ec8c2b7fdd38702f9815368bb22b943a85/.complete
+[2026-10-11T20:57:27Z] [iter=1] PHASE END: ast elapsed_s=8 elapsed_min=0.1
+[2026-10-11T20:57:27Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
