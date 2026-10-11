@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "tzlocal",
+  "versions": [
+    {
+      "commit": "5c5e35ec8c2b7fdd38702f9815368bb22b943a85",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:58:22.554026+00:00"
+    }
+  ]
+}
